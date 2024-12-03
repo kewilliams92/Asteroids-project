@@ -6,16 +6,16 @@ This is my version of the classic Asteroids game, built from scratch using Pytho
 
 Features
 
-	1.	Smooth Gameplay: The game runs at a consistent 60 frames per second, ensuring smooth and responsive controls.
-	2.	Game Over Mechanic: The game continues until the player collides with an asteroid. When that happens, the game ends and prints “Game Over” in the console.
-	3.	Organized Code: I utilized Pygame Groups to manage game objects, making updates and drawings cleaner and easier to handle.
-	4.	Player Movement: The player controls a triangle-shaped ship that can move freely using the WASD keys, offering precise control.
-	5.	Dynamic Asteroids: The asteroids move randomly, creating unpredictable challenges. Shooting them triggers dynamic splitting:
+1.	Smooth Gameplay: The game runs at a consistent 60 frames per second, ensuring smooth and responsive controls.
+2.	Game Over Mechanic: The game continues until the player collides with an asteroid. When that happens, the game ends and prints “Game Over” in the console.
+3.	Organized Code: I utilized Pygame Groups to manage game objects, making updates and drawings cleaner and easier to handle.
+4.	Player Movement: The player controls a triangle-shaped ship that can move freely using the WASD keys, offering precise control.
+5.	Dynamic Asteroids: The asteroids move randomly, creating unpredictable challenges. Shooting them triggers dynamic splitting:
 	•	Large asteroids break into two medium ones.
 	•	Medium asteroids break into two small ones.
 	•	Small asteroids disappear completely when hit.
-	6.	Collision Detection: Collision mechanics handle interactions between the player and asteroids (resulting in a game over) or between projectiles and asteroids (causing splitting or destruction).
-	7.	Constants for Key Values: I used constants to manage settings like speed, size, and frame rates, making it easier to tweak and balance the game.
+6.	Collision Detection: Collision mechanics handle interactions between the player and asteroids (resulting in a game over) or between projectiles and asteroids (causing splitting or destruction).
+7.	Constants for Key Values: I used constants to manage settings like speed, size, and frame rates, making it easier to tweak and balance the game.
 
 What I Learned
 
