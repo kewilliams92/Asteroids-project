@@ -11,11 +11,13 @@ Features
 3.	Organized Code: I utilized Pygame Groups to manage game objects, making updates and drawings cleaner and easier to handle.
 4.	Player Movement: The player controls a triangle-shaped ship that can move freely using the WASD keys, offering precise control.
 5.	Dynamic Asteroids: The asteroids move randomly, creating unpredictable challenges. Shooting them triggers dynamic splitting:
+   
 	•	Large asteroids break into two medium ones.
 	•	Medium asteroids break into two small ones.
 	•	Small asteroids disappear completely when hit.
-6.	Collision Detection: Collision mechanics handle interactions between the player and asteroids (resulting in a game over) or between projectiles and asteroids (causing splitting or destruction).
-7.	Constants for Key Values: I used constants to manage settings like speed, size, and frame rates, making it easier to tweak and balance the game.
+
+7.	Collision Detection: Collision mechanics handle interactions between the player and asteroids (resulting in a game over) or between projectiles and asteroids (causing splitting or destruction).
+8.	Constants for Key Values: I used constants to manage settings like speed, size, and frame rates, making it easier to tweak and balance the game.
 
 What I Learned
 
