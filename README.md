@@ -13,7 +13,9 @@ Features
 5.	Dynamic Asteroids: The asteroids move randomly, creating unpredictable challenges. Shooting them triggers dynamic splitting:
    
 	•	Large asteroids break into two medium ones.
+
 	•	Medium asteroids break into two small ones.
+
 	•	Small asteroids disappear completely when hit.
 
 7.	Collision Detection: Collision mechanics handle interactions between the player and asteroids (resulting in a game over) or between projectiles and asteroids (causing splitting or destruction).
