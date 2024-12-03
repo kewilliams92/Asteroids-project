@@ -1,4 +1,4 @@
-#Asteroids Game in Python with Pygame
+Asteroids Game in Python with Pygame
 
 Overview
 
